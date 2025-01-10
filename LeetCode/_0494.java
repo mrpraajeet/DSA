@@ -1,4 +1,4 @@
-public class _494 {
+public class _0494 {
     public int findTargetSumWays(int[] nums, int k) {
         return exp(nums, k, 0, 0);
     }

@@ -1,6 +1,6 @@
 import java.util.*;
 
-class _916 {
+class _0916 {
     public List<String> wordSubsets(String[] words1, String[] words2) {
         List<String> subs = new ArrayList<>();
         int[] freq = new int[26];
