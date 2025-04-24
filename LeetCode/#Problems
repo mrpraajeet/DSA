@@ -1,21 +1,37 @@
 🟥
+🟨 11 - Container With Most Water
+🟨 151 - Reverse Words in a String
+🟨 238 - Product of Array Except Self
+🟩 283 - Move Zeroes
+🟨 334 - Increasing Triplet Subsequence
+🟩 345 - Reverse Vowels of a String
+🟩 392 - Is Subsequence
+🟨 443 - String Compression
 🟨 494 - Target Sum
 🟨 515 - Find Largest Value in Each Tree Row
+🟩 605 - Can Place Flowers
 🟨 916 - Word Subsets
 🟨 1014 - Best Sightseeing Pair
+🟩 1071 - Greatest Common Divisor of Strings
 🟨 1267 - Count Servers that Communicate
+🟩 1399 - Count Largest Group
 🟨 1400 - Construct K Palindrome Strings
 🟩 1408 - String Matching in an Array
 🟩 1422 - Maximum Score After Splitting a String
+🟩 1431 - Kids With the Greatest Number of Candies
 🟩 1752 - Check if Array Is Sorted and Rotated
+🟩 1768 - Merge Strings Alternatively
 🟨 1769 - Minimum Number of Operations to Move All Balls to Each Box
 🟨 2130 - Maximum Twin Sum of a Linked List
+🟨 2145 - Count the Hidden Sequences
 🟩 2185 - Count Words With a Given Prefix
 🟨 2270 - Number of Ways to Split Array
 🟨 2559 - Count Vowel String in Ranges
+🟨 2563 - Count the Number of Fair Pairs
 🟨 2657 - Find the Prefix Common Array of Two Arrays
 🟨 2661 - First Completely Painted Row or Column
 🟨 2683 - Neighboring Bitwise XOR
+🟨 2799 - Count Complete Subarrays in an Array
 🟩 3042 - Count Prefix and Suffix Pairs I
 🟩 3151 - Special Array I
 🟨 3191 - Minimum Operations to Make Binary Array Elements Equal to One I
